@@ -18,12 +18,12 @@ void loop() {
     delay(1000);*/
 
 
-    for(int i = 0; i <= 180; i++) {
+    /*for(int i = 0; i <= 180; i++) {
         myServo.write(i);
         delay(500);
     }
     for(int i = 180; i >= 0; i--) {
         myServo.write(i);
         delay(500);
-    }
+    }*/
 }
